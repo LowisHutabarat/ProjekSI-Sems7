@@ -12,6 +12,9 @@ The goal of this project is to increase insight into programming languages. We w
 | 2       | Gidion Depari           | 222528002 |
 | 3       | Fransius Tambunan       | 222528003 |
 
-### Built With
+## Technologies Used
 
-- [![Bootstrap][getbootstrap.com]][Bootstrap-url]
+- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
