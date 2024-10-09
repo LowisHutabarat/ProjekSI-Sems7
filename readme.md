@@ -35,6 +35,6 @@ Our website showcases alumni data in a creative, user-friendly format, accessibl
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 
-## Contributing
+## Figma
 
-King Evos
+https://www.figma.com/board/PXZXyTrcPn0AxvQCiftshN/Planning-Pengembangan-Sistem-Informasi?node-id=0-1&node-type=canvas&t=mOgOrVkoVxE9jB5h-0
